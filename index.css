@@ -1,0 +1,12 @@
+#question {
+  color: #555555;  
+  width:auto;
+  font-size: 28;
+}
+
+.choice {  
+  width: 200px;
+  float: bottom;
+  background-color: #000000;
+  color: #FFFFFF;
+}
